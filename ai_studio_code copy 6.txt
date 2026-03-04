@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic QR Code Generator",
+  "description": "Generate and manage dynamic QR codes that can be updated after printing.",
+  "requestFramePermissions": []
+}
